@@ -1,5 +1,40 @@
 p {
     font-size: 20px;
     color:rgb(47, 88, 88);
+}
 
+h1 {
+    color:midnightblue
+}
+
+h2 {
+    color:olivedrab
+}
+
+h3 {
+    color:skyblue
+}
+
+img {
+    width: 15vw
+}
+
+body {
+    background-color: rgb(218, 214, 214);
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+button {
+    background-color:lightcoral
+}
+button:hover {
+    background-color: lightgreen;
+    cursor: pointer
+}
+
+input {
+    border-style: solid;
+    border-width: 2px;
+    border-color: midnightblue;
+    border-radius: 8px;
 }
